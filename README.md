@@ -121,3 +121,7 @@ information. See example below:
 >> make test
 ```
 
+### Running via Slurm
+
+...
+...
